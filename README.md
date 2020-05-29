@@ -5,4 +5,5 @@ This is a memory card game it supports settings as following:
 - Setable ammount of same cards to be opened for locking them all as opened;
 - Setable Deck of cards works with 2,3,30...;
 - Setable Messages content;  
-https://stacksmack007.github.io/VueJS-Memory-Card-Game/
+
+https://stacksmack007.github.io/VueJS-MemoryCardGame/
